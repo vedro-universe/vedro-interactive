@@ -86,7 +86,8 @@ class InteractivePlugin(Plugin):
         table.add_column("Description", min_width=35)
 
         table.add_row("(n)ext", "go before next step")
-        table.add_row("(w)hen", "go before when")
+        table.add_row("(w)hen", "go before when step")
+        table.add_row("(e)nd", "go before scenario end")
         table.add_row("(q)uit", "exit()")
 
         return table
