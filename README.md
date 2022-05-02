@@ -1,1 +1,1 @@
-# vedro-interactive
+# Vedro Interactive
