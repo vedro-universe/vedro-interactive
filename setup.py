@@ -20,7 +20,7 @@ setup(
     author="Nikita Tsvetkov",
     author_email="nikitanovosibirsk@yandex.com",
     python_requires=">=3.8",
-    url="https://github.com/nikitanovosibirsk/vedro-interactive",
+    url="https://github.com/vedro-universe/vedro-interactive",
     license="Apache-2.0",
     packages=find_packages(exclude=["tests", "tests.*"]),
     package_data={"vedro_interactive": ["py.typed"]},
